@@ -14,7 +14,7 @@ Predict body fat % and suggest safe, evidence-based ways to reduce it without he
 
 ---
 
-# Requirments 
+# Requirements 
  Install packages like:
     -- faker (for sinthetic data generation)
     -- pandas (for file handling)
@@ -22,3 +22,10 @@ Predict body fat % and suggest safe, evidence-based ways to reduce it without he
 
 ---
 
+# Running
+open the notebook.ipynb file and click "Run All".
+
+---
+
+# Graph
+![Distribution of Body Fat Percentage](Distribution of Body Fat Percentage.png)
